@@ -37,6 +37,12 @@
 					<React />
 				</div>
 			</a>
+			<a href="https://koala.io/" target="_blank">
+				<p>Koala</p>
+				<div class="technologies">
+					<Craft />
+				</div>
+			</a>
 			<a href="https://www.figma.com/community/plugin/941336520474170939/Moodz" target="_blank">
 				<p>Moodz</p>
 				<div class="technologies">
