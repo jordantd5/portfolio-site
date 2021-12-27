@@ -4,7 +4,8 @@
 		<div class="left">
 			<h1>Jordan Davis</h1>
 			<p>Front End Engineer,</p>
-			<p><a class="milkshake" href="https://milkshake.studio/" target="_blank">Milkshake Studio</a></p>
+			<p><a class="milkshake" href="https://milkshake.studio/" target="_blank">Milkshake Studio</a> 2019 - 2021</p>
+      <p><a class="milkshake" href="https://www.simplehealth.com/" target="_blank">SimpleHealth</a> 2021 - PRESENT</p>
 
 			<div class="links">
 				<a href="https://github.com/jordantd5" target="_blank"><Github /></a>
