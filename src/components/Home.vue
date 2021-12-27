@@ -55,6 +55,12 @@
 					<Vue />
 				</div>
 			</a>
+      <a href="https://niallknithouse.com/" target="_blank">
+				<p>Niall Knithouse</p>
+				<div class="technologies">
+					<Shopify />
+				</div>
+			</a>
 			<a href="https://www.olo.com/" target="_blank">
 				<p>Olo</p>
 				<div class="technologies">
