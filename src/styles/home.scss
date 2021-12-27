@@ -23,8 +23,12 @@ div#home{
 			transition: all 300ms 0ms ease;
 			transform-origin: left top;
 			display: inline-block;
+      margin: 0;
+      font-weight: 600;
 
-			&:hover{ transform: scale(1.5); }
+			// &:hover{ transform: scale(1.5); }
+      &:hover{ color: #2f89fc; }
+      &.sh:hover{ color: rgb(136, 86, 235); }
 		}
 
 		.links{
