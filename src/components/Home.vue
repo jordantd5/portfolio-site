@@ -5,7 +5,8 @@
 			<h1>Jordan Davis</h1>
 			<p>Front End Engineer,</p>
 			<p><a class="milkshake" href="https://milkshake.studio/" target="_blank">Milkshake Studio</a> 2019 - 2021</p>
-      <p><a class="milkshake sh" href="https://www.simplehealth.com/" target="_blank">SimpleHealth</a> 2021 - PRESENT</p>
+			<p><a class="milkshake sh" href="https://www.simplehealth.com/" target="_blank">SimpleHealth</a> 2021 - 2022</p>
+			<p><a class="milkshake as" href="https://aurorasolar.com/" target="_blank">Aurora Solar</a> 2022 - PRESENT</p>
 
 			<div class="links">
 				<a href="https://github.com/jordantd5" target="_blank"><Github /></a>
