@@ -40,6 +40,12 @@
           <Shopify />
         </div>
       </a>
+      <a href="https://chefalexi.com/" target="_blank">
+        <p>Chef Website</p>
+        <div class="technologies">
+          <React />
+        </div>
+      </a>
       <a href="https://chestertravels.com/" target="_blank">
         <p>Chester</p>
         <div class="technologies">
