@@ -22,7 +22,13 @@
         <a class="milkshake as" href="https://aurorasolar.com/" target="_blank"
           >Aurora Solar</a
         >
-        2022 - PRESENT
+        2022 - 2025
+      </p>
+      <p>
+        <a class="milkshake lock" href="https://www.wantlocker.com/" target="_blank"
+          >Locker</a
+        >
+        2025 - PRESENT
       </p>
 
       <div class="links">
